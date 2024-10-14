@@ -1,0 +1,2 @@
+# vsworkspace
+all vs apps
